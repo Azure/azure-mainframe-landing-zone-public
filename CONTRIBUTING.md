@@ -98,7 +98,7 @@ The following users have elevated privileges:
 
 | **NAME**             | **GitHub Handle** | **Affiliated Organization** |
 |:---------------------|:------------------|:----------------------------|
-| Lalit Patel          | @lapate           | Microsoft                   |
+| Lalit Patel          | @azure           | Microsoft                   |
 | Esthela Gallardo     | @zzzzzz           | Microsoft                   |
 
 ### Responsibilities
